@@ -23,7 +23,6 @@ My adaptability and quick learning abilities allow me to stay up-to-date with th
   - [ArtByKHS Website (Art Portfolio)](https://www.artbykhs.com/)
 
 <br>
-<br>
 
 <h2>🚀 Certifications: </h2>
 
@@ -35,8 +34,6 @@ My adaptability and quick learning abilities allow me to stay up-to-date with th
 - [TestOut Certified Client Pro](https://certification.testout.com/verifycert?certificateId=6-2C6-HC8KJ)
 - [TestOut Certified PC Pro](https://certification.testout.com/verifycert?certificateId=6-2C6-HAC9R)
 
-
-<br>
 <br>
 
 <h2>🎥 Videos: Demonstrated Skills</h2>
@@ -45,14 +42,13 @@ My adaptability and quick learning abilities allow me to stay up-to-date with th
 - [Basic Linux commands, SQL*Plus, Oracle PL/SQL](https://www.youtube.com/watch?v=OcHo0Ae5cAE)
 
 <br>
-<br>
 
 <h2>📲 Connect with me:</h2>
 
 - LinkedIn: [linkedin.com/in/gizellemstenson](https://www.linkedin.com/in/gizellemstenson)
 
 <br>
-<br> 
+<br>
 
-Thank you for viewing my profile! 🌻
+--------------------------------- <b>🌻 Thank you for viewing my profile! 🌻</b> ------------------------------------
 
