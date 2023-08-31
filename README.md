@@ -15,6 +15,9 @@ My adaptability and quick learning abilities allow me to stay up-to-date with th
   - [2D Drawing (Tkinter, Draw2D, Random)](https://github.com/gmstenson/python-tkinter-draw2d)
   - [Read CSV Files](https://github.com/gmstenson/python-csv)
   - [Small Random Python Programs](https://github.com/gmstenson/python-codes)
+ 
+- <b>SQL</b>
+  - [MySQL Sample Queries](https://github.com/gmstenson/sql-files)
     
 - <b>HTML and CSS</b>
   - [ArtByKHS Simple Website](https://github.com/gmstenson/html-css-project)
