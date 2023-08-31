@@ -1,9 +1,12 @@
 <h1>Hi, I'm Gizelle Stenson! </h1>
 
 <h2> About Me:</h2>
-I'm a highly motivated and passionate Applied Technology student with expertise in database management and cloud computing. 
-I seek to contribute my knowledge and collaborate with interdisciplinary teams to tackle real-world challenges.
+I am highly motivated and passionate about harnessing the power of innovation to drive positive change. <br> <br>
+With a strong database management and cloud computing foundation, I am eager to contribute my knowledge and collaborate with interdisciplinary teams to tackle real-world challenges.
+My adaptability and quick learning abilities allow me to stay up-to-date with the ever-evolving technological landscape.
 
+<br>
+<br>
 
 <h2>👨‍💻 My Projects:</h2>
 
