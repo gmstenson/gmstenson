@@ -53,5 +53,5 @@ My adaptability and quick learning abilities allow me to stay up-to-date with th
 <br>
 <br>
 
---------------------------------- <b>🌻 Thank you for viewing my profile! 🌻</b> ------------------------------------
+<b>🌻 Thank you for viewing my profile! 🌻</b>
 
