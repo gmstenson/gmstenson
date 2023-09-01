@@ -11,7 +11,7 @@ My adaptability and quick learning abilities allow me to stay up-to-date with th
 <h2>💻 My Projects:</h2>
 
 - <b>Python</b>
-  - [Church Presidents and Temples (TKinter, Matplotlib, Pandas, CSV, Numpy)](https://github.com/gmstenson/python-temples-and-presidents-project)
+  - [Church Presidents and Temples (TKinter, Matplotlib, Pandas, CSV, DateTime, Numpy)](https://github.com/gmstenson/python-temples-and-presidents-project)
   - [2D Drawing (Tkinter, Draw2D, Random)](https://github.com/gmstenson/python-tkinter-draw2d)
   - [Read CSV Files](https://github.com/gmstenson/python-csv)
   - [Small Random Python Programs](https://github.com/gmstenson/python-codes)
@@ -53,5 +53,5 @@ My adaptability and quick learning abilities allow me to stay up-to-date with th
 <br>
 <br>
 
-<b>🌻 Thank you for viewing my profile! 🌻</b>
+<b> Thank you for viewing my profile! 🌻</b>
 
