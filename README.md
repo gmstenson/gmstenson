@@ -18,6 +18,9 @@ My adaptability and quick learning abilities allow me to stay up-to-date with th
  
 - <b>SQL</b>
   - [MySQL Sample Queries](https://github.com/gmstenson/sql-files)
+
+- <b>BASH</b>
+  - [Add/Delete Users BASH Shell Script](https://github.com/gmstenson/bash-scripting-project)
     
 - <b>HTML and CSS</b>
   - [ArtByKHS Simple Website](https://github.com/gmstenson/html-css-project)
