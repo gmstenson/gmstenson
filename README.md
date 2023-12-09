@@ -42,6 +42,7 @@ My adaptability and quick learning abilities allow me to stay up-to-date with th
 <h2>🎥 Videos: Demonstrated Skills</h2>
 
 - [Database Administration (Microsoft SQL Server, Docker, MySQL, T-SQL)](https://youtube.com/playlist?list=PLKwsg9FyIea3ZGT-2No1GanZGE03jJ0DP&si=FPsMTxOh1ce1w7lV)
+- [Database Programming (Oracle PL/SQL Programming, PostgreSQL(PL/pgSQL), AWS, Linux)](https://www.youtube.com/playlist?list=PL89HF68ijtHZtlSzTI1jWPoTp2ak2WNzk)
 - [Basic Linux commands, SQL*Plus, Oracle PL/SQL](https://www.youtube.com/watch?v=OcHo0Ae5cAE)
 
 <br>
