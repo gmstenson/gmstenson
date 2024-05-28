@@ -37,6 +37,7 @@ My adaptability and quick learning abilities allow me to stay up-to-date with th
 - [Microsoft Certified Azure Data Fundamentals (DP-900)](https://www.credly.com/badges/9e54da16-bf9b-40f1-b669-0375b8931f92/public_url)
 - [Microsoft Certified Security, Compliance, and Identity Fundamentals (SC-900)](https://www.credly.com/badges/6802b86d-e5dd-4069-9c7c-1b85cecd6c8d/public_url)
 - [Microsoft Certified Power Platform Fundamentals (PL-900)](https://learn.microsoft.com/api/credentials/share/en-us/StensonGizelleMhariz-7722/2406712FF96C8B68?sharingId=C770884F15D88C49)
+- [Microsoft Certified AI Fundamentals (AI-900)](https://learn.microsoft.com/api/credentials/share/en-us/StensonGizelleMhariz-7722/3CF312BEA16F0CC?sharingId=C770884F15D88C49)
 - [TestOut Certified Network Pro](https://certification.testout.com/verifycert?certificateId=6-2C6-CEC8S)
 - [TestOut Certified Client Pro](https://certification.testout.com/verifycert?certificateId=6-2C6-HC8KJ)
 - [TestOut Certified PC Pro](https://certification.testout.com/verifycert?certificateId=6-2C6-HAC9R)
