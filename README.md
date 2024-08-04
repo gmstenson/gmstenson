@@ -32,6 +32,7 @@ My adaptability and quick learning abilities allow me to stay up-to-date with th
 
 <h2>🚀 Certifications: </h2>
 
+- [HashiCorp Certified: Terraform Associate (003)](https://www.credly.com/badges/21c78100-9828-4e0e-a205-ae1ba85d694b/public_url)
 - [AWS Certified Cloud Practitioner](https://www.credly.com/badges/cf49bb1d-4d7b-43c0-b63e-43a439469893/public_url)
 - [Microsoft Certified Azure Fundamentals (AZ-900)](https://www.credly.com/badges/d82eb4f5-3dfe-4f6f-a854-415896d43c4e/public_url)
 - [Microsoft Certified Azure Data Fundamentals (DP-900)](https://www.credly.com/badges/9e54da16-bf9b-40f1-b669-0375b8931f92/public_url)
